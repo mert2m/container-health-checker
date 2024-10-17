@@ -1,0 +1,414 @@
+{
+  "timestamp": "2024-10-17T15:18:19.273855",
+  "total_containers": 12,
+  "containers": {
+    "buildx_buildkit_boring_saha0": {
+      "basic_info": {
+        "id": "e85b52adc7c4",
+        "name": "buildx_buildkit_boring_saha0",
+        "status": "running",
+        "image": "moby/buildkit:buildx-stable-1",
+        "created": "2024-07-28T21:56:40.032040461Z"
+      },
+      "resources": {
+        "cpu": {
+          "percentage": 0.0,
+          "total_usage": "0.86 seconds"
+        },
+        "memory": {
+          "percentage": 0.3,
+          "usage": "23.70 MB",
+          "limit": "7.66 GB",
+          "raw": {
+            "usage": 24850432,
+            "limit": 8221949952
+          }
+        },
+        "network": {
+          "received": "1.40 KB",
+          "transmitted": "0.00 B",
+          "raw": {
+            "rx_bytes": 1436,
+            "tx_bytes": 0,
+            "rx_packets": 12,
+            "tx_packets": 0
+          }
+        }
+      }
+    },
+    "buildx_buildkit_agitated_cartwright0": {
+      "basic_info": {
+        "id": "27822268f2bf",
+        "name": "buildx_buildkit_agitated_cartwright0",
+        "status": "running",
+        "image": "moby/buildkit:buildx-stable-1",
+        "created": "2024-07-28T21:54:05.225123167Z"
+      },
+      "resources": {
+        "cpu": {
+          "percentage": 0.0,
+          "total_usage": "0.63 seconds"
+        },
+        "memory": {
+          "percentage": 0.35,
+          "usage": "27.09 MB",
+          "limit": "7.66 GB",
+          "raw": {
+            "usage": 28401664,
+            "limit": 8221949952
+          }
+        },
+        "network": {
+          "received": "1.53 KB",
+          "transmitted": "0.00 B",
+          "raw": {
+            "rx_bytes": 1566,
+            "tx_bytes": 0,
+            "rx_packets": 13,
+            "tx_packets": 0
+          }
+        }
+      }
+    },
+    "buildx_buildkit_determined_fermat0": {
+      "basic_info": {
+        "id": "95fddace1eee",
+        "name": "buildx_buildkit_determined_fermat0",
+        "status": "running",
+        "image": "moby/buildkit:buildx-stable-1",
+        "created": "2024-07-28T21:48:53.201882715Z"
+      },
+      "resources": {
+        "cpu": {
+          "percentage": 0.0,
+          "total_usage": "0.70 seconds"
+        },
+        "memory": {
+          "percentage": 0.38,
+          "usage": "29.46 MB",
+          "limit": "7.66 GB",
+          "raw": {
+            "usage": 30892032,
+            "limit": 8221949952
+          }
+        },
+        "network": {
+          "received": "1.53 KB",
+          "transmitted": "0.00 B",
+          "raw": {
+            "rx_bytes": 1566,
+            "tx_bytes": 0,
+            "rx_packets": 13,
+            "tx_packets": 0
+          }
+        }
+      }
+    },
+    "buildx_buildkit_gifted_murdock0": {
+      "basic_info": {
+        "id": "c7a5eb2f4b49",
+        "name": "buildx_buildkit_gifted_murdock0",
+        "status": "running",
+        "image": "moby/buildkit:buildx-stable-1",
+        "created": "2024-07-26T16:08:53.365940425Z"
+      },
+      "resources": {
+        "cpu": {
+          "percentage": 0.0,
+          "total_usage": "0.55 seconds"
+        },
+        "memory": {
+          "percentage": 0.29,
+          "usage": "22.62 MB",
+          "limit": "7.66 GB",
+          "raw": {
+            "usage": 23724032,
+            "limit": 8221949952
+          }
+        },
+        "network": {
+          "received": "1.40 KB",
+          "transmitted": "0.00 B",
+          "raw": {
+            "rx_bytes": 1436,
+            "tx_bytes": 0,
+            "rx_packets": 12,
+            "tx_packets": 0
+          }
+        }
+      }
+    },
+    "buildx_buildkit_hardcore_tharp0": {
+      "basic_info": {
+        "id": "20d82e4a5734",
+        "name": "buildx_buildkit_hardcore_tharp0",
+        "status": "running",
+        "image": "moby/buildkit:buildx-stable-1",
+        "created": "2024-07-26T16:06:26.064937176Z"
+      },
+      "resources": {
+        "cpu": {
+          "percentage": 0.01,
+          "total_usage": "0.78 seconds"
+        },
+        "memory": {
+          "percentage": 0.6,
+          "usage": "47.14 MB",
+          "limit": "7.66 GB",
+          "raw": {
+            "usage": 49426432,
+            "limit": 8221949952
+          }
+        },
+        "network": {
+          "received": "1.53 KB",
+          "transmitted": "0.00 B",
+          "raw": {
+            "rx_bytes": 1566,
+            "tx_bytes": 0,
+            "rx_packets": 13,
+            "tx_packets": 0
+          }
+        }
+      }
+    },
+    "kind-for-ingress-worker2": {
+      "basic_info": {
+        "id": "f0f774d0914c",
+        "name": "kind-for-ingress-worker2",
+        "status": "running",
+        "image": "kindest/node:v1.27.3",
+        "created": "2024-03-12T12:10:16.018206763Z"
+      },
+      "resources": {
+        "cpu": {
+          "percentage": 1.0,
+          "total_usage": "36.32 seconds"
+        },
+        "memory": {
+          "percentage": 7.94,
+          "usage": "622.84 MB",
+          "limit": "7.66 GB",
+          "raw": {
+            "usage": 653094912,
+            "limit": 8221949952
+          }
+        },
+        "network": {
+          "received": "1.92 MB",
+          "transmitted": "247.24 KB",
+          "raw": {
+            "rx_bytes": 2008480,
+            "tx_bytes": 253176,
+            "rx_packets": 1652,
+            "tx_packets": 1465
+          }
+        }
+      }
+    },
+    "kind-for-ingress-control-plane": {
+      "basic_info": {
+        "id": "5d85bc55ad6e",
+        "name": "kind-for-ingress-control-plane",
+        "status": "running",
+        "image": "kindest/node:v1.27.3",
+        "created": "2024-03-12T12:10:16.017898055Z"
+      },
+      "resources": {
+        "cpu": {
+          "percentage": 2.22,
+          "total_usage": "95.19 seconds"
+        },
+        "memory": {
+          "percentage": 13.12,
+          "usage": "1.00 GB",
+          "limit": "7.66 GB",
+          "raw": {
+            "usage": 1078816768,
+            "limit": 8221949952
+          }
+        },
+        "network": {
+          "received": "988.45 KB",
+          "transmitted": "6.85 MB",
+          "raw": {
+            "rx_bytes": 1012175,
+            "tx_bytes": 7184816,
+            "rx_packets": 5481,
+            "tx_packets": 6101
+          }
+        }
+      }
+    },
+    "kind-for-ingress-worker3": {
+      "basic_info": {
+        "id": "a3f23eca8b6c",
+        "name": "kind-for-ingress-worker3",
+        "status": "running",
+        "image": "kindest/node:v1.27.3",
+        "created": "2024-03-12T12:10:16.017783471Z"
+      },
+      "resources": {
+        "cpu": {
+          "percentage": 1.26,
+          "total_usage": "21.66 seconds"
+        },
+        "memory": {
+          "percentage": 4.76,
+          "usage": "373.55 MB",
+          "limit": "7.66 GB",
+          "raw": {
+            "usage": 391696384,
+            "limit": 8221949952
+          }
+        },
+        "network": {
+          "received": "928.14 KB",
+          "transmitted": "137.10 KB",
+          "raw": {
+            "rx_bytes": 950411,
+            "tx_bytes": 140391,
+            "rx_packets": 1163,
+            "tx_packets": 1021
+          }
+        }
+      }
+    },
+    "kind-for-ingress-worker": {
+      "basic_info": {
+        "id": "83614f0b2b76",
+        "name": "kind-for-ingress-worker",
+        "status": "running",
+        "image": "kindest/node:v1.27.3",
+        "created": "2024-03-12T12:10:16.01772443Z"
+      },
+      "resources": {
+        "cpu": {
+          "percentage": 0.76,
+          "total_usage": "60.97 seconds"
+        },
+        "memory": {
+          "percentage": 10.13,
+          "usage": "794.07 MB",
+          "limit": "7.66 GB",
+          "raw": {
+            "usage": 832638976,
+            "limit": 8221949952
+          }
+        },
+        "network": {
+          "received": "70.90 MB",
+          "transmitted": "739.82 KB",
+          "raw": {
+            "rx_bytes": 74340646,
+            "tx_bytes": 757571,
+            "rx_packets": 5849,
+            "tx_packets": 4138
+          }
+        }
+      }
+    },
+    "kind-registry": {
+      "basic_info": {
+        "id": "c76352872f97",
+        "name": "kind-registry",
+        "status": "running",
+        "image": "registry:2",
+        "created": "2024-03-12T11:47:19.431304042Z"
+      },
+      "resources": {
+        "cpu": {
+          "percentage": 0.0,
+          "total_usage": "0.26 seconds"
+        },
+        "memory": {
+          "percentage": 0.25,
+          "usage": "19.42 MB",
+          "limit": "7.66 GB",
+          "raw": {
+            "usage": 20365312,
+            "limit": 8221949952
+          }
+        },
+        "network": {
+          "received": "9.46 KB",
+          "transmitted": "946.00 B",
+          "raw": {
+            "rx_bytes": 9682,
+            "tx_bytes": 946,
+            "rx_packets": 133,
+            "tx_packets": 11
+          }
+        }
+      }
+    },
+    "mert-kind-control-plane": {
+      "basic_info": {
+        "id": "98834e5f9972",
+        "name": "mert-kind-control-plane",
+        "status": "running",
+        "image": "unnamed",
+        "created": "2024-03-05T08:51:45.070030463Z"
+      },
+      "resources": {
+        "cpu": {
+          "percentage": 2.79,
+          "total_usage": "201.52 seconds"
+        },
+        "memory": {
+          "percentage": 34.46,
+          "usage": "2.64 GB",
+          "limit": "7.66 GB",
+          "raw": {
+            "usage": 2832920576,
+            "limit": 8221949952
+          }
+        },
+        "network": {
+          "received": "164.16 MB",
+          "transmitted": "219.85 KB",
+          "raw": {
+            "rx_bytes": 172134125,
+            "tx_bytes": 225124,
+            "rx_packets": 7065,
+            "tx_packets": 2278
+          }
+        }
+      }
+    },
+    "kind-control-plane": {
+      "basic_info": {
+        "id": "42b30518c4e3",
+        "name": "kind-control-plane",
+        "status": "running",
+        "image": "unnamed",
+        "created": "2024-03-05T08:50:04.678871667Z"
+      },
+      "resources": {
+        "cpu": {
+          "percentage": 1.35,
+          "total_usage": "82.75 seconds"
+        },
+        "memory": {
+          "percentage": 11.64,
+          "usage": "912.72 MB",
+          "limit": "7.66 GB",
+          "raw": {
+            "usage": 957059072,
+            "limit": 8221949952
+          }
+        },
+        "network": {
+          "received": "9.93 KB",
+          "transmitted": "5.91 KB",
+          "raw": {
+            "rx_bytes": 10164,
+            "tx_bytes": 6054,
+            "rx_packets": 140,
+            "tx_packets": 81
+          }
+        }
+      }
+    }
+  }
+}
